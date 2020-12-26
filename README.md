@@ -1,0 +1,1 @@
+This is a mock Google homepage project that I am creating as part of my completion of The Odin Project's "Foundations" curriculum.
